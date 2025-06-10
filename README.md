@@ -1,16 +1,37 @@
-## Hi there 👋
+Hi there, I'm Abdulbasiyr 👋
 
-<!--
-**Abdulbasiyr/abdulbasiyr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate Frontend Developer and Programmer focused on creating clean and user-friendly interfaces.
 
-Here are some ideas to get you started:
+🚀 Skills:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+HTML, CSS, JavaScript
+
+React, Git, GitHub
+
+
+🌱 I’m currently learning:
+
+I am currently diving deep into advanced React concepts.
+I am also sharpening my frontend skills and I’m on the path to becoming a Fullstack Developer in the near future.
+
+👯 I’m looking to collaborate on:
+
+Frontend projects
+
+Team-based development
+
+A team where I can grow and continue my journey in web development and programming
+
+
+💬s Ask me about:
+
+React, responsive design, UI/UX best practices.
+
+📨 More about me:
+
+Portfolio: 
+
+⚡ Fun fact:
+
+I enjoy working at night with atmospheric music and a cozy lamp.
+I love learning deeply and focusing on meaningful projects, whether it's team work or important solo tasks.
