@@ -29,7 +29,7 @@ React, responsive design, UI/UX best practices.
 
 📨 More about me:
 
-Portfolio: 
+Portfolio: my2-portfolio.netlify.app
 
 ⚡ Fun fact:
 
