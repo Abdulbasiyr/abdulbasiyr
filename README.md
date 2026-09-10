@@ -1,5 +1,5 @@
 <h1 align="center">Abdulbasiyr Niyazmuhamedov</h1>
-<p align="center"><b>Backend Developer</b> · Node.js · PostgreSQL · MongoDB · Prisma</p>
+<p align="center"><b>Full Stack Developer</b> · Node.js · PostgreSQL · MongoDB · Prisma</p>
 
 <hr/>
 
